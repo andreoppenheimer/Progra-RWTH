@@ -1,5 +1,5 @@
 /**
- * Programm, welches einen simplen Taschenrechner darstellt.
+ * Programm, welches einen simplen Bankautomaten darstellt.
  */
 
 void main() {
