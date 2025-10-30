@@ -1,5 +1,5 @@
 /**
- * Programm, welches einen simplen Bankautomaten darstellt.
+ * Blatt 01 Abgabe von Bastian Schymik (468244) und Andre Oppenheimer (372217)
  */
 
 void main() {
